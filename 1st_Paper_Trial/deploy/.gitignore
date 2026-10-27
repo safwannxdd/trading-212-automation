@@ -1,0 +1,4 @@
+.env
+*.log
+entry_prices.json
+__pycache__/
